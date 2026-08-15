@@ -18,15 +18,7 @@ I enjoy turning ideas into real-world projects and continuously improving my pro
 
 
 
-## 🌐 Socials:
 
-[Instagram](#)
-[LinkedIn](#)
-[Email](mailto:sharmanishikant118@gmail.com)
-
-## 💻 Tech Stack:
-
-Python | C++ | JavaScript | Node.js | PostgreSQL | AI | Cybersecurity
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ItzMeNishikant&limit=5&theme=radical&combine_all_yearly_contributions=true)
