@@ -16,11 +16,7 @@ I enjoy turning ideas into real-world projects and continuously improving my pro
 ![](https://streak-stats.demolab.com/?user=ItzMeNishikant&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ItzMeNishikant&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-7 weeks internship experience from Meander Software PVT. LTD. Mohali (Chandigarh, India) in Cybersecurity
 
-gmail id : [sharmanishikant118@gmail.com](mailto:sharmanishikant118@gmail.com)
-
-linkdin : Nishikant Sharma
 
 ## 🌐 Socials:
 
@@ -31,24 +27,6 @@ linkdin : Nishikant Sharma
 ## 💻 Tech Stack:
 
 Python | C++ | JavaScript | Node.js | PostgreSQL | AI | Cybersecurity
-
-
-7 weeks internship experience from Meander Software PVT. LTD. Mohali (Chandigarh, India) in Cybersecurity
-
-gmail id : [sharmanishikant118@gmail.com](mailto:sharmanishikant118@gmail.com)
-
-linkdin : Nishikant Sharma
-
-## 🌐 Socials:
-
-[Instagram](#)
-[LinkedIn](#)
-[Email](mailto:sharmanishikant118@gmail.com)
-
-## 💻 Tech Stack:
-
-Python | C++ | JavaScript | Node.js | PostgreSQL | AI | Cybersecurity
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ItzMeNishikant&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -56,4 +34,3 @@ Python | C++ | JavaScript | Node.js | PostgreSQL | AI | Cybersecurity
 ---
 [![](https://komarev.com/ghpvc/?username=ItzMeNishikant&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
