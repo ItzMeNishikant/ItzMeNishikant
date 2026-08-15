@@ -18,6 +18,9 @@ I enjoy turning ideas into real-world projects and continuously improving my pro
 
 7 weeks internship experience from Meander Software PVT. LTD. Mohali (Chandigarh, India) in Cyber Security
 
+📧 Gmail: sharmanishikant118@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/nishikant-sharma-663194402
+
 
 
 
