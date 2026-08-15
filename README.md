@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Nishi Kant<br><br>🎓 B.Tech CSE Student<br>💻 AI | Cybersecurity | Python | Data Science | Full Stack | IoT<br><br>🧑‍💻 About Me<br>I'm a B.Tech Computer Science & Engineering student interested in building practical solutions using Artificial Intelligence, Cybersecurity, Data Science, IoT, and Software Development.
 
-I enjoy turning ideas into real-world projects and continuously improving my programming and problem-solving skills.<br><br>🚀 Featured Projects<br>🔐 BlackIce AI SOC<br>🚲 Smart Bike Accident Detection<br>📊 Data Science Workbench<br><br>🛠️ Tech Stack<br>Python | C++ | JavaScript | Node.js | PostgreSQL | AI | etc.<br><br>🌱 Currently Learning<br>AI/ML | Cybersecurity | DSA<br><br>🌐 Connect With Me<br>LinkedIn | Email<br><br>📊 GitHub Stats<br> 7 weeks intership from meander software pvt. ltd. in cyber security <br>gmail id : sharmanishikant118@gmail.com<br>linkdin : Nishikant Sharma
+I enjoy turning ideas into real-world projects and continuously improving my programming and problem-solving skills.<br><br>🚀 Featured Projects<br>🔐 BlackIce AI SOC<br>🚲 Smart Bike Accident Detection<br>📊 Data Science Workbench<br><br>🛠️ Tech Stack<br>Python | C++ | JavaScript | Node.js | PostgreSQL | AI | etc.<br><br>🌱 Currently Learning<br>AI/ML | Cybersecurity | DSA<br><br>🌐 Connect With Me<br>LinkedIn | Email<br><br>📊 GitHub Stats<br>
 
 
 ## 🌐 Socials:
@@ -18,6 +18,7 @@ I enjoy turning ideas into real-world projects and continuously improving my pro
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ItzMeNishikant&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+📊
 7 weeks internship experience from Meander Software PVT. LTD. Mohali (Chandigarh, India) in Cyber Security
 
 📧 Gmail: sharmanishikant118@gmail.com  
