@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nishi Kant<br><br>🎓 B.Tech CSE 4th year Student from gdc Dharamshala (District:Kangra H.P)<br>💻 AI | Cybersecurity | Python | Data Science | Full Stack | IoT<br><br>🧑‍💻 About Me<br>I'm a B.Tech Computer Science & Engineering student interested in building practical solutions using Artificial Intelligence, Cybersecurity, Data Science, IoT, and Software Development.
+👋 Hi, I'm Nishi Kant<br><br>🎓 B.Tech CSE 4th year Student from GDC Dharamshala (District : Kangra H.P)<br>💻 AI | Cybersecurity | Python | Data Science | Full Stack | IoT<br><br>🧑‍💻 About Me<br>I'm a B.Tech Computer Science & Engineering student interested in building practical solutions using Artificial Intelligence, Cybersecurity, Data Science, IoT, and Software Development.
 
 I enjoy turning ideas into real-world projects and continuously improving my programming and problem-solving skills.<br><br>🚀 Featured Projects<br>🔐 BlackIce AI SOC<br>🚲 Smart Bike Accident Detection<br>📊 Data Science Workbench<br><br>🛠️ Tech Stack<br>Python | C++ | JavaScript | Node.js | PostgreSQL | AI | etc.<br><br>🌱 Currently Learning<br>AI/ML | Cybersecurity | DSA<br><br>🌐 Connect With Me<br>LinkedIn | Email<br><br>
 
